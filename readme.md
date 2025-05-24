@@ -33,7 +33,7 @@
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/cabrata/statsmonit
+   git clone https://github.com/Revxzz/statsmonit
    ```
 
 2. Navigate into the project folder:
@@ -108,10 +108,5 @@ npm run build
 
 This will generate a minified CSS file for production.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to **open an issue** or **submit a pull request** if you find any improvements or bugs.
-
-## 📜 License
 
 This project is licensed under the **MIT License**.
