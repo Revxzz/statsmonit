@@ -475,8 +475,8 @@
       document.addEventListener('DOMContentLoaded', function() {
           initCharts();
               Swal.fire({
-                  title: 'Did You Know?',
-                  text: 'StatsMonit is an open-source project that you can explore on GitHub!',
+                  title: 'Hello I Am Revxz?',
+                  text: 'Jangan Lupa Untuk Mampir Ke Website Saya!',
                   icon: 'info',
                   background: '#1e2235',
                   color: '#fff',
@@ -485,14 +485,14 @@
                   confirmButtonColor: '#3B82F6',
                   cancelButtonColor: '#4B5563',
                   confirmButtonText: 'View Project',
-                  cancelButtonText: 'Close',
+                  cancelButtonText: 'Keluar',
                   customClass: {
                       title: 'text-2xl text-blue-300',
                       popup: 'border border-gray-700 rounded-xl'
                   }
               }).then((result) => {
                   if (result.isConfirmed) {
-                      window.open('https://github.com/cabrata/statsmonit', '_blank');
+                      window.open('https://revxz.xyz', '_blank');
                   }
               });
       });
